@@ -1,0 +1,8 @@
+emp 3 jana 10.222000                                                                               -
+std 10 jnjn 10.500000 20                                                                           -
+std 11 sara 11.500000 30                                                                           -
+std 12 zaina 12.500000 40                                                                          -std 13 farah 30.500000 50                                                                          -  
+emp 2 ramah 987.88                                                                                 -
+std 1 Jiji 100.000000 21                                                                           -
+std 4 jojo 1000.000000 54                                                                          -
+emp 89   4532.109863                                                                               -
